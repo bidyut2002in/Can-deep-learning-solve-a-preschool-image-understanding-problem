@@ -14,11 +14,11 @@ color concept, and knowledge of objects and geometric shapes. It utilized a pipe
 bridging with an object knowledge layer for generating question–answer pairs and achieved promising results. 
 We benchmarked our dataset with state-of-the-art deep learning methods and assessed the performance of 
 generating question–answer pairs from a given image. The source code and the dataset are 
-available at https://github.com/skarifahmed/pic2question (will be publicly opened after the acceptance of 
+available at https://github.com/bidyut2002in/Can-deep-learning-solve-a-preschool-image-understanding-problem (will be publicly opened after the acceptance of 
 the manuscript).
 ### License
 
-Copyright © 2021 Sk. Arif Ahmed
+Copyright © 2021 Bidyut Das
 
 The content of this repository is bound by the following licenses:
 
